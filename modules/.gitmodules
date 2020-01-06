@@ -1,0 +1,25 @@
+[submodule "upr"]
+	path = upr
+	url = https://github.com/rbe051/UPR.git
+[submodule "fvbiot"]
+	path = fvbiot
+	url = https://github.com/keileg/fvbiot.git
+[submodule "re-mpfa"]
+	path = re-mpfa
+	url = https://github.com/jhabriel/re-mpfa.git
+	branch = master
+[submodule "dual-porosity"]
+	path = dual-porosity
+	url = git@bitbucket.org:rafael_march_carbonates_hw/mrst-dual-porosity.git
+[submodule "nwm"]
+	path = nwm
+	url = https://bitbucket.org/LinZhao9/nwm.git
+[submodule "geochemistry"]
+	path = geochemistry
+	url = git@bitbucket.org:mrst/matlab-geochemistry.git
+[submodule "geothermal"]
+	path = geothermal
+	url = git@bitbucket.org:marinec/geneva_basin
+[submodule "nfvm"]
+	path = nfvm
+	url = git@bitbucket.org:augustjohansson/nfvm-original
